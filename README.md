@@ -1,1 +1,1 @@
-#MECHOU-mtm6130-simple-html-website
+#Mechou-mtm6130-simple-html-website
